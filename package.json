@@ -1,14 +1,14 @@
 {
-  "name": "sagu-ui",
-  "version": "1.1.8",
-  "description": "It's a minimalist React library",
+  "name": "react-library-starter",
+  "version": "1.0.0",
+  "description": "This project is a boilerplate for a React UI library.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vczb/sagu-ui.git"
+    "url": "git+https://github.com/vczb/react-library-starter.git"
   },
   "main": "lib/index.js",
   "types": "lib",
-   "scripts": {
+  "scripts": {
     "build": "tsc -p .",
     "lint": "eslint src --max-warnings=0",
     "typecheck": "tsc --project tsconfig.json --noEmit",

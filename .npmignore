@@ -7,3 +7,4 @@ storybook-static
 .storybook
 rollup.config.*
 .*
+src/**/**/stories.tsx
